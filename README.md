@@ -5,5 +5,5 @@ Instrucciones
 3) php artisan migrate
 4) correr script.sql
 5) npm install
-6) npm run dev o npm run watch (instalar en caso de no tenerlo)
+6) npm run dev o npm run watch 
 7) php artisan serve
