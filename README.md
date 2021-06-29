@@ -1,4 +1,4 @@
-Proyecto en laravel+React js lista las calles de una ciudad.
+Proyecto en laravel+reactjs lista las calles de una ciudad.
 
 Instrucciones
 
